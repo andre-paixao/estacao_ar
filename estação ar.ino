@@ -1,4 +1,5 @@
 // sketch criada por André paixão do canal Ideias e inventos.
+// https://github.com/andre-paixao/estacao_ar.git
 // publicada 09/01/23.
 // Bibliotecas 
 #include <LiquidCrystal_I2C.h>
